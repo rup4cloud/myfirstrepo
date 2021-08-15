@@ -2,8 +2,10 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("hello from main branch
-");
+<<<<<<< HEAD
+=======
+System.out.println("hello from feature 101");
+>>>>>>> feature101
 }
 }
 
